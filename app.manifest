@@ -5,7 +5,7 @@
     "id": {
       "group": null,
       "name": "TA-wireguard",
-      "version": "0.3.0"
+      "version": "1.0.0"
     },
     "author": [
       {
@@ -15,7 +15,7 @@
       }
     ],
     "releaseDate": null,
-    "description": "This TA app provides basic field extraction for wireguard debug log. Tested on debian buster running a > 5.6 kernel, which supports dynamic debugging.echo module wireguard +p > /sys/kernel/debug/dynamic_debug/control!!! This TA does not support IPv6, I have no log to work on the extraction !!!",
+    "description": "This TA app provides basic field extraction for wireguard debug log. Tested on debian running a > 5.6 kernel, which supports dynamic debugging.echo module wireguard +p > /sys/kernel/debug/dynamic_debug/control",
     "classification": {
       "intendedAudience": null,
       "categories": [],
