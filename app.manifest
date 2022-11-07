@@ -5,7 +5,7 @@
     "id": {
       "group": null,
       "name": "TA-wireguard",
-      "version": "1.0.0"
+      "version": "1.0"
     },
     "author": [
       {
@@ -15,7 +15,7 @@
       }
     ],
     "releaseDate": null,
-    "description": "This TA app provides field extraction for wireguard debug log. It supports IPv4 and IPv6",
+    "description": "This TA app provides field extraction for wireguard debug log. It supports IPv4 and IPv6.",
     "classification": {
       "intendedAudience": null,
       "categories": [],
