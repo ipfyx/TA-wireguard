@@ -15,7 +15,7 @@
       }
     ],
     "releaseDate": null,
-    "description": "This TA app provides basic field extraction for wireguard debug log. Tested on debian running a > 5.6 kernel, which supports dynamic debugging.echo module wireguard +p > /sys/kernel/debug/dynamic_debug/control",
+    "description": "This TA app provides field extraction for wireguard debug log. It supports IPv4 and IPv6",
     "classification": {
       "intendedAudience": null,
       "categories": [],
